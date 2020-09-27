@@ -1,2 +1,2 @@
 # Fashion-Detector
-The machine learning model will predict the what type of clothing is given in the image
+The machine learning model will predict the type of clothing given in the image
